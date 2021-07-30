@@ -1,2 +1,2 @@
-# drum-kit-website-main
-website for drum kit music play
+# drum-kit-website
+ website to play drums and enjoy
